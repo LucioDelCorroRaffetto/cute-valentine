@@ -45,4 +45,3 @@ The celebration screen is designed to look perfect in screenshots - hearts anima
 ---
 
 Made with ❤️ for Valentine's Day 2026</content>
-<parameter name="filePath">d:\programacion\cute-valentine\README.md# cute-valentine
